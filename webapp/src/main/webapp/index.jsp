@@ -4,4 +4,4 @@
 <h1> Good job Sublime and zane on learning Devops</h1>
 <h1> Good job on learning DevOps because it is the best investment for tomorrow</h1>
 <h1> I cant wait to start making big $$$$$$ doing DevOps</h1>
-<h1> this line is for docker test and the test was successfull </h1>
+<h1> this line is for docker test images and the test was successfull </h1>
