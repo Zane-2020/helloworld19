@@ -1,7 +1,7 @@
 # Pull base image 
-From tomcat:8-jre8 
+FROM  tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "skabasubabo21@gmail.com" 
+LABEL MAINTAINER: "skabasubabo21@gmail.com" 
 COPY ./webapp/target/webapp.war /usr/local/tomcat/webapps
 
